@@ -20,5 +20,5 @@ This playbook assumes a solo helpdesk with no email security portal. If MS365 De
 - Screenshot of header auth results.
 - Ticket created: immediate steps & actions taken.
 
- _Last tested: Nov 5 2025_
+ _Last tested: April 2025_
 
