@@ -18,7 +18,8 @@
 - VPN cached creds → disconnect VPN, sign in, reconnect.
 
 **Rollback:**
-- Restore previous password if policy allows, or disable account pending review.
+- Reset password again in AD and require change at next sign-in
+- Make sure the account isn't locked/disabled
 
 **Evidence to capture:**
 - Screenshot of successful sign-in timestamp
