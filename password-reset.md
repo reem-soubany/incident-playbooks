@@ -25,4 +25,4 @@
 - Screenshot of successful sign-in timestamp
 - Ticket created: cause (forgot/lockout), fix steps
 
-_Last tested: Nov 5 2025 on Win11 23H2_
+_Last tested: April 2025_
